@@ -61,6 +61,13 @@ dependencies:
   
   # URL launcher for external links
   url_launcher: ^6.2.1
+  
+  # Firebase dependencies
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.15.3
+  cloud_firestore: ^4.13.6
+  firebase_messaging: ^14.7.10
+  flutter_local_notifications: ^16.3.0
 
 dev_dependencies:
   flutter_test:
